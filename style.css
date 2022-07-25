@@ -1,0 +1,40 @@
+body{
+    font-size: 18px;
+}
+section{
+    margin: 70px 0;
+}
+h2{
+    color: white;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banner{
+    color: rgba(0, 0, 169);
+    font-size: 60px;
+    font-weight: 700;
+}
+.about-us{
+    background-image: linear-gradient(to bottom right, rgba(0, 0, 169), rgb(211, 31, 239));
+}
+.feature{
+    height: 100px;
+}
+.download{
+    background-image: url("./img/background.png");
+    background-color: rgba(0, 0, 169);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    height: 100vh;
+}
+.new-age-img{
+    width: 70%;
+    margin: auto;
+}
+footer{
+    bottom: 0;
+    padding: 50px 0;
+}
