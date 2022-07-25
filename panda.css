@@ -1,0 +1,15 @@
+.active{
+    background-color: bisque;
+}
+#category-1{
+    border-radius: 15px;
+    background-color: gold;
+}
+#category-2{
+    border-radius: 15px;
+    background-color: rgba(8, 248, 108, 0.886);
+}
+#category-3{
+    border-radius: 15px;
+    background-color: rgba(255, 0, 98, 0.749);
+}
