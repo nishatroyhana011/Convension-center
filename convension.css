@@ -32,8 +32,14 @@ ul{
     border-radius: 20px;
     box-shadow: 5px 30px 15px rgba(135, 207, 235, 0.375);
 }
-/* .client{
-
-    box-sizing: border-box;
-    
-} */
+#plus span{
+    top: -10px;
+    left: 240px;
+}
+.custom-border{
+    top: 200px;
+    border-left: 7px solid rgba(0, 106, 255, 0.647);
+}
+.packages{
+    margin-bottom: 120px;
+}
